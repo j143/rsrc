@@ -1,3 +1,3 @@
-module github.com/akavel/rsrc
+module github.com/j143/rsrc
 
 go 1.12
