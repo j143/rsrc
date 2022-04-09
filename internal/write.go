@@ -5,8 +5,8 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/akavel/rsrc/binutil"
-	"github.com/akavel/rsrc/coff"
+	"github.com/j143/rsrc/binutil"
+	"github.com/j143/rsrc/coff"
 )
 
 // TODO(akavel): maybe promote this to coff.Coff.WriteTo(io.Writer) (int64, error)

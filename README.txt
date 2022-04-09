@@ -1,6 +1,6 @@
 rsrc - Tool for embedding binary resources in Go programs.
 
-INSTALL: go get github.com/akavel/rsrc
+INSTALL: go get github.com/j143/rsrc
 
 USAGE:
 
@@ -34,7 +34,7 @@ TODO MAYBE/LATER:
 LICENSE: MIT
   Copyright 2013-2020 The rsrc Authors.
 
-http://github.com/akavel/rsrc
+http://github.com/j143/rsrc
 
 (NOTE: This project is currently in low-priority maintenance mode. I welcome
  bug reports and sometimes try to address them, but this happens very randomly.

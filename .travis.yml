@@ -15,7 +15,7 @@ jobs:
     go: master
     os: linux
     arch: amd64
-  - name: -- Ubuntu/IBM (?) cares for ppc64le? see https://github.com/akavel/rsrc/pull/31
+  - name: -- Ubuntu/IBM (?) cares for ppc64le? see https://github.com/j143/rsrc/pull/31
     go: 1.x
     os: linux
     arch: ppc64le

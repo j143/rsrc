@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/akavel/rsrc/rsrc"
+	"github.com/j143/rsrc/rsrc"
 )
 
 var usage = `USAGE:
